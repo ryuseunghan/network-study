@@ -25,8 +25,8 @@
 
 | **Chapter** | **Title** |
 | --- | --- |
-| **CH.01** | 📚 네트워크 기초 |
-| **CH.02** | 📚 물리 계층 |
+| **CH.01** | [📚 네트워크 기초](https://github.com/ryuseunghan/network-study/blob/main/1%EC%9E%A5_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%EA%B8%B0%EC%B4%88/1%EC%9E%A5_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%EA%B8%B0%EC%B4%88.md) |
+| **CH.02** | [📚 물리 계층](https://github.com/ryuseunghan/network-study/blob/main/2%EC%9E%A5_%EB%AC%BC%EB%A6%AC%EA%B3%84%EC%B8%B5/2%EC%9E%A5_%EB%AC%BC%EB%A6%AC%EA%B3%84%EC%B8%B5.md) |
 | **CH.03** | 📚 데이터링크 계층 |
 | **CH.04** | 📚 네트워크 계층 -1 |
 | **CH.04** | 📚 네트워크 계층 -2 |
